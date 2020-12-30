@@ -1,5 +1,5 @@
 # openshift-discourse
-This is an automated deploment of discourse for OpenShift
+This is an automated deployment of discourse for OpenShift
 
 Not working yet but when it does work it should launch by doing:
 
